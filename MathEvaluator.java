@@ -222,4 +222,5 @@ public class MathEvaluator {
 		hold = exp.substring(0,i1)+exp.substring(i2,exp.length());
 		exp = hold;
 	}
+	
 }
